@@ -1,5 +1,5 @@
-.App {
-  text-align: center;
+.app {
+  width:500px;
 }
 
 .App-logo {
@@ -7,11 +7,12 @@
   height: 80px;
 }
 
-.App-header {
+.container-fluid {
   background-color: #222;
-  height: 150px;
-  padding: 20px;
+  height: 100%;
+  width: 100%;
   color: white;
+  
 }
 
 .App-title {
@@ -26,3 +27,20 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
